@@ -37,7 +37,7 @@ hr {
 }
 
 a {
-  color: #11999e;
+  color: #000000;
   font-family: 'Montserrat', sans-serif;
   margin: 10px 20px;
   text-decoration: none;
@@ -100,6 +100,12 @@ a:hover {
   width: 25%;
   float: right;
   margin-left: 30px;
+}
+
+.book-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
 }
 
 .top-cloud {
